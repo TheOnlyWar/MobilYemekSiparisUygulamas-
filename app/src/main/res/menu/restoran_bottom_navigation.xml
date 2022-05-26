@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/restoran_nav_home"
+        android:title=""
+        android:icon="@drawable/ic_home" />
+    <item
+        android:id="@+id/restoran_nav_sepet"
+        android:title=""
+        android:icon="@drawable/ic_siparis" />
+    <item
+        android:id="@+id/restoran_nav_profil"
+        android:title=""
+        android:icon="@drawable/ic_profil" />
+</menu>

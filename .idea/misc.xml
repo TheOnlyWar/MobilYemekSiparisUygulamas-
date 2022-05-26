@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/drawable-anydpi/ic_profil.xml" value="0.1" />
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/drawable/gradient.xml" value="0.133" />
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/layout/activity_anasayfa.xml" value="0.25" />
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/layout/activity_kayit.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/layout/activity_pizza.xml" value="0.264" />
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/layout/activity_profil.xml" value="0.264" />
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/layout/activity_restoran_anasayfa.xml" value="0.18478260869565216" />
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/layout/activity_restoran_giris.xml" value="0.20606884057971014" />
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/layout/activity_restoran_kayit.xml" value="0.25" />
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/layout/fragment_musteri.xml" value="0.21014492753623187" />
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/layout/fragment_profil.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/layout/fragment_restoran.xml" value="0.21014492753623187" />
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/layout/fragment_restoran_anasayfa.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/layout/fragment_restoran_profil.xml" value="0.1" />
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/layout/fragment_sepet.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/layout/fragment_siparis.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/layout/giris_bar.xml" value="0.264" />
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/layout/musteri_toolbar.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/layout/pizza_toolbar.xml" value="0.253125" />
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/layout/sepet_toolbar.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/menu/bottom_navigation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dagte/AndroidStudioProjects/YemekSiparis/app/src/main/res/menu/restoran_bottom_navigation.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.18115942028985507" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

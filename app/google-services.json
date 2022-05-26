@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64871022002",
+    "project_id": "yemeksiparis-e75b6",
+    "storage_bucket": "yemeksiparis-e75b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64871022002:android:ed4c9b5b2e005992eff8ab",
+        "android_client_info": {
+          "package_name": "com.example.yemeksiparis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64871022002-r1vn4263oijbrkko95qt7g4niieggs29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHssDoTmKAhYfql5xDrbGjUL0crNeDnmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64871022002-r1vn4263oijbrkko95qt7g4niieggs29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
